@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: My awesome nerd website
 email: lea.dreyfus@cern.ch
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a 3rd-year PhD student in high energy physics working on the LHCb experiment at CERN. 
+  I am based at the Centre de Physique des Particules de Marseille (CPPM), where my research focuses on semileptonic B-decays. 
+  In particular, I study the angular distribution of $B^0 \to D^* e \nu_e$ decays in order to extract coefficients that could reveal Beyond the Standard Model effects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leadreyfus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  leadreyfus
 
 # Build settings
